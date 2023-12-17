@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'ChatbotNodeAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67A4A40C38F64B9186F18CE6627FC36F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F033C59B9BEC4F36B5A5968F6BA1BB47 }}
           package: .
